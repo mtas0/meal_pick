@@ -8,6 +8,7 @@ df_meals = pd.read_csv(mealdir, sep="\t")
 
 
 def meal_choice(time, health_l, difficulty_l):
+    """randomly choose an item from df depending on use input"""
     mealdir = (
         r"C:\Users\Merve Tas\Documents\Merve\Personal\Projects\meal_pick\meals_df.csv"
     )
