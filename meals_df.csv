@@ -1,0 +1,93 @@
+meal_time	difficulty	health	meal
+breakfast	easy	healthy	yoghurt with muesli and fruit
+breakfast	easy	healthy	oats with fruit and nuts
+breakfast	easy	healthy	avocado toast
+breakfast	easy	healthy	boiled eggs + salad + buns
+breakfast	easy	kinda	scrambled eggs on buttered buns
+breakfast	easy	kinda	breakfast wrap
+breakfast	easy	kinda	ham and cheese quinoa cups
+breakfast	easy	nah	breakfast quesedillas
+breakfast	easy	nah	cereal
+breakfast	easy	nah	nutella on toast/croissants
+breakfast	medium	healthy	veggie breakfast scramble
+breakfast	medium	healthy	spinach and tuna pancakes
+breakfast	medium	healthy	blueberry baked oats
+breakfast	medium	healthy	sweet potato toast
+breakfast	medium	kinda	breakfast burritos
+breakfast	medium	kinda	german breakfast (buns and beilage)
+breakfast	medium	kinda	french toast (savoury)
+breakfast	medium	nah	menemen with sucuk
+breakfast	medium	nah	pancakes or crepes with sweet and fruit
+breakfast	medium	nah	french toast
+breakfast	medium	nah	spinach quiche
+breakfast	hard	healthy	banana bread (healthy)
+breakfast	hard	healthy	zucchini bread
+breakfast	hard	healthy	Irish potato cake with smoked salmon
+breakfast	hard	healthy	stuffed peppers
+breakfast	hard	kinda	fritata
+breakfast	hard	kinda	poached eggs (buttery)
+breakfast	hard	kinda	hashbrown and eggs
+breakfast	hard	nah	borek and turkish breakfast
+breakfast	hard	nah	cinnamon rolls
+lunch	easy	healthy	chickpea curry
+lunch	easy	healthy	chicken noodle soup
+lunch	easy	healthy	baked salmon & asparagus
+lunch	easy	healthy	broccoli soup
+lunch	easy	kinda	sandwiches
+lunch	easy	kinda	pasta salad
+lunch	easy	kinda	rice and beans
+lunch	easy	kinda	tomato soup
+lunch	easy	nah	grilled cheese sandwich
+lunch	easy	nah	gnocchi
+lunch	easy	nah	hot dogs
+lunch	medium	healthy	orzo soup
+lunch	medium	healthy	wraps with roasted veg and goat cheese
+lunch	medium	healthy	pumpkin soup with coconut milk
+lunch	medium	kinda	fried rice
+lunch	medium	kinda	buddha bowl
+lunch	medium	kinda	turkey burgers
+lunch	medium	kinda	baked orange chicken
+lunch	medium	nah	meatball subs
+lunch	medium	nah	tortellini
+lunch	medium	nah	kaesespaetzle
+lunch	medium	nah	baked ziti
+lunch	hard	healthy	chicken pho
+lunch	hard	healthy	orechiette with walnut and pea pesto
+lunch	hard	healthy	colantro lime shrimp with zucchini noodles
+lunch	hard	kinda	sushi
+lunch	hard	kinda	blackened tilapia
+lunch	hard	kinda	stuffed cabbage rolls
+lunch	hard	nah	risotto
+lunch	hard	nah	manti
+lunch	hard	nah	fried chicken 
+dinner	easy	healthy	chicken salad
+dinner	easy	healthy	roasted veg
+dinner	easy	healthy	lemon pepper baked chicken
+dinner	easy	kinda	sweet potato kumpir
+dinner	easy	kinda	chicken marsala
+dinner	easy	kinda	tuna noodle casserole
+dinner	easy	kinda	chicken skewers with pita and tzatziki
+dinner	easy	kinda	Pancetta & brussels sprouts linguine
+dinner	easy	nah	creamy bacon pasta
+dinner	easy	nah	burgers
+dinner	easy	nah	gnocchi
+dinner	medium	healthy	roasted salmon salad
+dinner	medium	healthy	beef udon
+dinner	medium	healthy	fish stew
+dinner	medium	kinda	thai curry
+dinner	medium	kinda	ramen 
+dinner	medium	kinda	korean chicken (not fried)
+dinner	medium	kinda	shrimp noodles
+dinner	medium	kinda	schnitzel (not fried)
+dinner	medium	nah	butter chicken
+dinner	medium	nah	homemade pizza/flammkuchen
+dinner	medium	nah	chicken parm
+dinner	hard	healthy	beef curry
+dinner	hard	healthy	mushroom soup
+dinner	hard	healthy	balsamic beef stew with veggie mash
+dinner	hard	kinda	chilli con carne wraps
+dinner	hard	kinda	steak with potatoes and salad
+dinner	hard	kinda	falafel
+dinner	hard	nah	lasagne
+dinner	hard	nah	shepherds pie
+dinner	hard	nah	spare ribs
