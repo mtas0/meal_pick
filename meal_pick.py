@@ -3,15 +3,17 @@
 import pandas as pd
 import time
 
-mealdir = r"C:\Users\Merve Tas\Documents\Merve\Personal\Projects\meal_pick\meals_df.csv"
-df_meals = pd.read_csv(mealdir, sep="\t")
+csv_dir = r"path\to\csv"
+mealdir = r"{csv_dir}\meals_df.csv"
 
+def meal_choice(time, mealdir, health_l, difficulty_l):
+    """
+    randomly choose an item from df depending on user input
+    time = breakfast, lunch or dinner
+    health_l = healthy, kinda, nah
+    difficulty_l = easy, medium, difficult    
+    """
 
-def meal_choice(time, health_l, difficulty_l):
-    """randomly choose an item from df depending on user input"""
-    mealdir = (
-        r"C:\Users\Merve Tas\Documents\Merve\Personal\Projects\meal_pick\meals_df.csv"
-    )
     df_meals = pd.read_csv(mealdir, sep="\t")
     filtered = df_meals.query(
         "meal_time == @time and health == @health_l and difficulty == @difficulty_l"
